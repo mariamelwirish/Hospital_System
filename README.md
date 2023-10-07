@@ -4,7 +4,7 @@ A hospital management system that allows the user to manage patients' details al
 
 ## Description
 
-An application of object-oriented programming & deque data structure using `Python` in a hospital system. 
+An application of object-oriented programming & deque data structure using **Python** in a hospital system. 
 The system allows the user to manage the visiting patients in _(20)_ specializations (queues). Besides, the system sorts the patients' queue according to the priority the user provides: `normal (0)`, `urgent (1)`, and `super urgent (2)` with no more than 10 patients in each specialization (queue). 
 
 #### This system allows the user to:
